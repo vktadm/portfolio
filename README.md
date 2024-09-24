@@ -3,7 +3,7 @@
 ***
 #### Educational projects
 * [Django](https://github.com/vktadm/django_app)
-* [Pygame]https://github.com/vktadm/alien_invasion_pygame
+* [Pygame](https://github.com/vktadm/alien_invasion_pygame)
 
 
 
