@@ -2,7 +2,8 @@
 ### Tarnavskaya Victoria
 ***
 #### Educational projects
-* [Django Web-application](https://github.com/vktadm/django_app)
+* [Django](https://github.com/vktadm/django_app)
+* [Pygame]https://github.com/vktadm/alien_invasion_pygame
 
 
 
